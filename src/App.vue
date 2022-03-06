@@ -25,7 +25,7 @@
 #nav a {
   font-weight: bold;
   color: #2c3e50;
-    margin: 0.5rem;
+  margin: 0.5rem;
 }
 
 #nav a.router-link-exact-active {
@@ -33,17 +33,17 @@
 }
 
 .btn-priv {
-  background-color: #42B983;
+  background-color: #42b983;
   color: #fff;
 }
-.btn-priv:hover{
-  background-color: #26A76C;
+.btn-priv:hover {
+  background-color: #26a76c;
   color: #fff;
 }
 .jumbotron {
-    background-color: #CAE3F5;
+  background-color: #cae3f5;
 }
 body {
-  background-color: #F4FEFA;
+  background-color: #f4fefa;
 }
 </style>
