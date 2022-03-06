@@ -1,0 +1,20 @@
+[
+    {
+        "id": "project-1",
+        "name": "UI/UX",
+        "description": "Meniru UI/UX dari proyek yang sudah ada.",
+        "image": "https://i.ibb.co/k4JnNFW/project-1.png"
+    },
+    {
+        "id": "project-2",
+        "name": "Database MySQL",
+        "description": "Membuat database untuk toko komputer.",
+        "image": "https://i.ibb.co/Hnhp1VT/Screenshot-43.png"
+    },
+    {
+        "id": "project-3",
+        "name": "MQTT untuk IoT",
+        "description": "Memanfaatkan Node JS untuk membuat MQTT.",
+        "image": "https://i.ibb.co/d2S8cm4/project-3.png"
+    }
+]
